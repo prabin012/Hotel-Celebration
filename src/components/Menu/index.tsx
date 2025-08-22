@@ -3,7 +3,7 @@ const Menu = () => {
     {
       id: "5",
       name: "Katiya mutton",
-      price: 450,
+      price: 480,
       quantity: 43,
       category: "Food Non-Veg",
       image: "/images/7.jpg",
@@ -22,7 +22,7 @@ const Menu = () => {
     {
       id: "8",
       name: "Normal Mutton",
-      price: 400,
+      price: 440,
       quantity: 48,
       category: "Food Non-Veg",
       image: "/images/km2.jpg",
@@ -31,7 +31,7 @@ const Menu = () => {
     {
       id: "9",
       name: "Paneer chelly",
-      price: 350,
+      price: 400,
       quantity: 45,
       category: "Food Veg",
       image: "/images/pc.jpg",
@@ -40,7 +40,7 @@ const Menu = () => {
     {
       id: "10",
       name: "Paneer pakuda",
-      price: 350,
+      price: 400,
       quantity: 48,
       category: "Food Veg",
       image: "/images/pp.jpg",
@@ -68,7 +68,7 @@ const Menu = () => {
     {
       id: "7",
       name: "Mutton Rice",
-      price: 320,
+      price: 350,
       quantity: 43,
       category: "Food Veg",
       image: "/images/kh.jpg",
