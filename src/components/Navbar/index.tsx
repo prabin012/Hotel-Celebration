@@ -14,7 +14,8 @@ const Nav = () => {
             <div>
               <h1 className="text-2xl font-bold tracking-wide">katiya House</h1>
               <p className="text-amber-300 font-mono text-xs font-light">
-                Test the Treditions
+                {/* Test the Treditions */}
+                स्वाद र संस्कृतिको मेल
               </p>
             </div>
           </div>
